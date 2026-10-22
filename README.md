@@ -1,5 +1,5 @@
 # Lipid Atlas Demo (R Shiny)
-
+**Live demo:** https://qiliu-chn.shinyapps.io/lipid-atlas-demo/
 An interactive prototype for exploring quantitative lipidomics data: you can search lipid
 species, compare concentrations between groups, run univariate and multivariate statistics,
 and test a cross-validated classifier.
